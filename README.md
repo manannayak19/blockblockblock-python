@@ -3,7 +3,7 @@ A simple blockchain implementation in Python with a basic REST API using Flask.
 
 # Simple Python Blockchain
 
-It includes a simple proof-of-work system, transaction management, and a REST API using Flask.
+It includes a proof-of-work system, transaction management, and a REST API using Flask.
 
 ## Features
 
